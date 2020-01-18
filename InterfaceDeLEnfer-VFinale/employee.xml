@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<employees>
+	<employee name="NOMEDE" firstname="Nydia" age="20">	</employee>
+	<employee name="MAJAX" firstname="Gérard" age="70">	</employee>
+	<employee name="BACHI" firstname="Bouzouk" age="43">	</employee>
+	<employee name="BIBI" firstname="Phoque" age="99">	</employee>
+	<employee name="MOULA" firstname="Gauffre" age="120">	</employee>	
+</employees>
+

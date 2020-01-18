@@ -1,0 +1,15 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:sqltrismegiste.ressources"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+					
+ <Style x:Key="Style1" TargetType="Control">
+        <Setter Property="Background" Value="Yellow"></Setter>
+    </Style>
+    <Style x:Key="Style2" BasedOn="{StaticResource Style1}" TargetType="Control">
+        <Setter Property="Foreground" Value="Blue" />
+        <Setter Property="FontWeight" Value="Bold" />
+        <Setter Property="FontSize" Value="20" />
+    </Style>
+	
+</ResourceDictionary>
